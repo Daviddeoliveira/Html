@@ -2,6 +2,10 @@
     color: aqua;
 }
 
-/* .body{
-    background-color: rgb(30, 30, 30);
-} */
+.img-thumbnail{
+    width: 45%;
+}
+
+ .body{
+    background-color: rgb(70, 70, 70);
+} 
